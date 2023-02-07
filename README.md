@@ -1,6 +1,7 @@
 # flutterpush
 
 A new Flutter project.
+configured for android only.
 
 ## Getting Started
 
